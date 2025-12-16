@@ -29,7 +29,7 @@ I'm on a journey to build a strong foundation for my professional career:
 - 🌐 Develop my own personal website
 - 🔨 Create multiple coding and Arduino projects
 - 📚 Master Git and GitHub for professional collaboration
-- 🎨 Learn manim library to create educational content
+- 🎨 Learn Manim library to create educational content
 - 🚀 Build a strong portfolio of hardware and software projects
 
 ## 📫 Let's Connect!
