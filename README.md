@@ -1,30 +1,22 @@
-## 👋Hi there, I'm Swiks-Dev (Swikar Devkota)
+## 👋 Hi, I’m Swiks-Dev (Swikar Devkota)
 
 ## 🎓 About Me
+I’m an **Electronics, Information, and Communication Engineering** student at **Pulchowk Campus, Lalitpur, Nepal**.  
+I enjoy working at the intersection of **software and hardware**, turning ideas into practical, real-world solutions.
 
-I am currently studying **Electronics, Information and Communication Engineering** at **Pulchowk Campus, Lalitpur, Nepal**. 
+## 🚀 Currently Learning
+- 🔧 **Git & GitHub** for effective collaboration and version control  
+- 💻 **Programming:** C, C++, Python, HTML, CSS, JavaScript  
+- 🎨 **Manim** for mathematical and educational animations  
+- 🌐 **Web Development**, with the goal of building my own website  
 
-I'm passionate about **coding** and creating innovative **hardware and software** solutions that bridge the digital and physical worlds.
 
-## 🚀 What I'm Currently Trying to Learn
+## 🎯 Goals
+- 🌟 Design and launch a personal website  
+- 🤖 Build creative projects combining **Arduino** and programming  
+- 📚 Gain strong proficiency in **Git and GitHub**  
+- 🔨 Develop meaningful **hardware–software** projects  
 
-- 🔧 **Git & GitHub** - Building skills for professional collaboration and version control
-- 💻 **Programming Languages**:
-  - C
-  - C++
-  - Python
-  - HTML
-  - JavaScript
-  - CSS
-- 🎨 **Manim** - Python library for creating mathematical animations
-- 🌐 **Web Development** - Working towards building my own website
-
-## 🎯 My Goals
-
-- 🌟 Develop my own personal website
-- 🤖 Create exciting projects combining **Arduino** and **coding**
-- 📚 Master Git and GitHub for my future professional career
-- 🔨 Build meaningful hardware and software projects
 
 ## 🛠️ Technologies & Tools
 
@@ -36,20 +28,17 @@ I'm passionate about **coding** and creating innovative **hardware and software*
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-## 💡 Interests
 
+## 💡 Interests
 - 💻 Software Development
 - 🔌 Hardware Engineering
 - 🤖 Arduino Projects
 - 🎬 Mathematical Animations (Manim)
 - 🌐 Web Development
 
-## 📫 Connect With Me
-
-Feel free to reach out or collaborate on interesting projects! 
-
 ---
 
-⭐️ From [Swiks-Devhello](https://github.com/Swiks-Devhello)
+## 📫 Let’s Connect
+I’m always open to learning, collaboration, and working on interesting projects.
 
-
+⭐️ From [Swiks-Dev](https://github.com/Swiks-Dev)
